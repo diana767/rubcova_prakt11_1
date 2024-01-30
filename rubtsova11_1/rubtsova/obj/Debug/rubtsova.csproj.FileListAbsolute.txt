@@ -1,0 +1,10 @@
+C:\Users\diana\OneDrive\Рабочий стол\rubtsova11_1\rubtsova\bin\Debug\rubtsova.exe.config
+C:\Users\diana\OneDrive\Рабочий стол\rubtsova11_1\rubtsova\bin\Debug\rubtsova.exe
+C:\Users\diana\OneDrive\Рабочий стол\rubtsova11_1\rubtsova\bin\Debug\rubtsova.pdb
+C:\Users\diana\OneDrive\Рабочий стол\rubtsova11_1\rubtsova\obj\Debug\rubtsova.csproj.AssemblyReference.cache
+C:\Users\diana\OneDrive\Рабочий стол\rubtsova11_1\rubtsova\obj\Debug\rubtsova.Form1.resources
+C:\Users\diana\OneDrive\Рабочий стол\rubtsova11_1\rubtsova\obj\Debug\rubtsova.Properties.Resources.resources
+C:\Users\diana\OneDrive\Рабочий стол\rubtsova11_1\rubtsova\obj\Debug\rubtsova.csproj.GenerateResource.cache
+C:\Users\diana\OneDrive\Рабочий стол\rubtsova11_1\rubtsova\obj\Debug\rubtsova.csproj.CoreCompileInputs.cache
+C:\Users\diana\OneDrive\Рабочий стол\rubtsova11_1\rubtsova\obj\Debug\rubtsova.exe
+C:\Users\diana\OneDrive\Рабочий стол\rubtsova11_1\rubtsova\obj\Debug\rubtsova.pdb
